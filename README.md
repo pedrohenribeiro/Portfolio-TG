@@ -1,4 +1,4 @@
-# 👨‍💻 Portfolio - Pedro Henrique Ribeiro
+# Portfolio - Pedro Henrique Ribeiro
 
 Olá, meu nome é Pedro Henrique Ribeiro, tenho 20 anos e atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos.
 
@@ -111,7 +111,11 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 - 🧭 Desenvolvi um **footer responsivo**, mantendo a identidade visual consistente em todas as páginas.
 - ☁️ Realizei a **hospedagem do site** na plataforma **Hostinger**, deixando o projeto disponível publicamente.
 
-🔗 Acesse o projeto online: [techschool.pedrohenribeiro.com](https://techschool.pedrohenribeiro.com/)
+### 🔗 Acesse o projeto online: [techschool.pedrohenribeiro.com](https://techschool.pedrohenribeiro.com/)
+
+
+https://github.com/user-attachments/assets/a0f2e983-2eaa-4a00-a109-b64bd51f1c20
+
 
 
 </details>
