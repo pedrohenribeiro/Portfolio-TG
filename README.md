@@ -17,3 +17,9 @@ Em 2020 eu passei com bolsa 100% na Univap Centro e comecei a estudar Eletrônic
  Estou buscando minha primeira experiência profissional na área de tecnologia, acredito que tenho muito a contribuir, aprender e aprimorar,  estou sempre buscando novos conhecimentos e melhorando minhas habilidades técnicas e interpessoais.
 
  
+## Contatos
+
+ * **Linkedin:** www.linkedin.com/in/pedrohenribeiro1/
+ * **E-mail:** pedrohenribeiro04@gmail.com
+ * **Github:** www.github.com/pedrohenribeiro
+ <!-- * Portfolio (site) -->
