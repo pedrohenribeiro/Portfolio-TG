@@ -42,6 +42,7 @@ Eu sou um desenvolvedor full-stack, venho me esforçando e ampliando meus conhec
 | AWS        | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
 | C#         | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
 | Godot      | ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) |
+| Unreal       | ![Unreal](https://img.shields.io/badge/-Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white) |
 | Unity      | ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) |
 | Java       | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) |
 
