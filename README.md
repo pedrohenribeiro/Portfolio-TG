@@ -23,3 +23,21 @@ Em 2020 eu passei com bolsa 100% na Univap Centro e comecei a estudar Eletrônic
  * **E-mail:** pedrohenribeiro04@gmail.com
  * **Github:** www.github.com/pedrohenribeiro
  <!-- * Portfolio (site) -->
+
+## Meus Principais Conhecimentos
+
+Eu sou um desenvolvedor full-stack, venho me esforçando e focando bastante e ampliando meus conhecimentos, também tenho muito interesse na área de Game Design. Entre todos os meus conhecimentos, se destacam:
+
+* Typescript
+* JavaScript
+* React
+* HTML
+* CSS
+* Python
+* Mysql
+* MongoDB
+* AWS
+* C#
+* Godot
+* Unity
+* Java
