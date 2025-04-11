@@ -110,7 +110,8 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 - 🪟 Criei **modais interativos** com exemplos de ferramentas, além de botões para **download de arquivos**, como burndown e backlog.
 - 📱 Fiz toda a parte de **responsividade** do site, garantindo uma boa experiência em monitores grandes, celulares e tablets.
 - 🧭 Desenvolvi um **footer responsivo**, mantendo a identidade visual consistente em todas as páginas.
-- ☁️ Realizei a **hospedagem do site** na plataforma **Hostinger**, deixando o projeto disponível publicamente.
+- ☁️ Realizei a **hospedagem do site** na **AWS**, deixando o projeto disponível publicamente para as apresentações.
+- ☁️ Realizei a **hospedagem do site** na plataforma da **Hostinger**, deixando o projeto disponível publicamente.
 
 ### 🔗 Acesse o projeto online: [techschool.pedrohenribeiro.com](https://techschool.pedrohenribeiro.com/)
 
