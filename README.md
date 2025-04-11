@@ -1,8 +1,10 @@
 # Portfolio - Pedro Henrique Ribeiro
 
+<img align="left" src="https://github.com/user-attachments/assets/0b3312eb-c22c-4262-9fa3-9981f90f02ec" alt="foto-perfil" width="250"/>
+
 Olá, meu nome é Pedro Henrique Ribeiro, tenho 20 anos e atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos.
 
-## 🙋‍♂️ Um pouco sobre mim
+🙋‍♂️ **Um pouco sobre mim**
 
 Eu sempre fui apaixonado por tecnologia, eu gostava muito de jogar no video game e no computador, então no meio do ensino fundamental, em 2016 eu comecei a estudar Game Design na Microcamp, tive meu primeiro contato com uma linguagem de programação com c++ na Unreal Engine 3.5. Minha parte favorita na época era modelagem 3D no 3DMax. Em 2018 quando terminei o curso e comecei a fazer outros 2 cursos em focados para Game Design na Advanced e Saga, finalizei o curso da advanced mas precisei sair do curso da Saga, nesse mesmo período (2017) também iniciei o curso Hardware e Robótica na Microcamp, onde me apaixonei por IOT(Inteligência das coisas), finalizei o curso em 2018.
 
@@ -107,11 +109,11 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 - 🧱 Estruturei a organização geral do site, planejando a disposição dos elementos e o posicionamento dos conteúdos e imagens.
 - 🔁 Implementei o **framework Flask** para gerenciar as rotas e o layout geral do site.
 - 🎯 Desenvolvi **botões animados** no final de cada página que redirecionam o usuário para outras seções do site.
-- 🪟 Criei **modais interativos** com exemplos de ferramentas, além de botões para **download de arquivos**, como burndown e backlog.
+- 💡 Criei **modais interativos** com exemplos de ferramentas, além de botões para **download de arquivos**, como burndown e backlog.
 - 📱 Fiz toda a parte de **responsividade** do site, garantindo uma boa experiência em monitores grandes, celulares e tablets.
 - 🧭 Desenvolvi um **footer responsivo**, mantendo a identidade visual consistente em todas as páginas.
-- ☁️ Realizei a **hospedagem do site** na **AWS**, deixando o projeto disponível publicamente para as apresentações.
-- ☁️ Realizei a **hospedagem do site** na plataforma da **Hostinger**, deixando o projeto disponível publicamente.
+- ☁️ Realizei a **hospedagem do site** na **AWS**, deixando o projeto disponível para ser acessado durante as apresentações.
+- ☁️ Realizei a **hospedagem do site** na plataforma da **Hostinger**, deixando o projeto disponível publicamente após o periodo do desenvolvimento.
 
 ### 🔗 Acesse o projeto online: [techschool.pedrohenribeiro.com](https://techschool.pedrohenribeiro.com/)
 
