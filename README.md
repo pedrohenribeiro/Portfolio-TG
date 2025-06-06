@@ -43,7 +43,7 @@ Eu sou um desenvolvedor full-stack, venho me esforçando e ampliando meus conhec
  <summary>
   📘 Tech School - Primeiro Semestre (2023-1)
  </summary>
-
+ </br>
 ## 💻 Tech School
 
 ### 📖 Introdução
@@ -108,6 +108,36 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 
 https://github.com/user-attachments/assets/a0f2e983-2eaa-4a00-a109-b64bd51f1c20
 
+</details>
 
+<details>
+ <summary>
+   Assistente Zari - Segundo Semestre (2023-2)
+ </summary>
+ </br>
+
+</details>
+
+<details>
+ <summary>
+   Dashboard Pro4Tech
+ </summary>
+ </br>
+
+</details>
+ 
+<details>
+ <summary>
+   WE COLEB - JJM Log
+ </summary>
+ </br>
+ 
+</details>
+
+<details>
+ <summary>
+   SistemaReembolso - GSW Software
+ </summary>
+ </br>
 
 </details>
