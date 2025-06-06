@@ -116,6 +116,59 @@ https://github.com/user-attachments/assets/a0f2e983-2eaa-4a00-a109-b64bd51f1c20
  </summary>
  </br>
 
+ ## 💻 Assistente Zari
+
+### 📖 Introdução
+O desenvolvimento do projeto ocorreu no segundo semestre do curso, com a direção do professor Giuliano Bertoti, que simulava ser um cliente externo para aproximar as equipes da realidade do mercado de trabalho.
+
+---
+
+### 🎯 Objetivo
+
+O projeto desenvolvido no 2º semestre teve como objetivo criar um assistente virtual capaz de ler documentos e responder a perguntas relacionadas ao seu conteúdo, facilitando o acesso rápido a informações específicas.
+
+---
+
+### ❗ Problema
+
+O problema surgiu a partir da necessidade dos usuários em localizar informações específicas dentro de documentos extensos de forma mais rápida e prática.
+
+---
+
+### ✅ Solução
+
+Desenvolvemos um chatbot capaz de ler documentos, identificar palavras-chave e responder perguntas em linguagem natural. O sistema torna a busca por informações mais rápida, objetiva e eficiente, simulando uma conversa com o usuário.
+
+---
+
+### 🔧 Tecnologias Utilizadas
+
+<div align="center">
+
+| Tecnologias | Aplicação |
+|-------------|-----------|
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | Desenvolvimento da aplicação desktop e implementação da lógica de leitura e análise de documentos. |
+| ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) | Gerenciamento de dependências e automação do processo de build. |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | Modelagem e armazenamento das interações e dados extraídos dos documentos. |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | Criação dos protótipos da interface, colaborando no design e experiência do usuário. |
+| ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) | IDE utilizada para desenvolvimento do projeto em Java. |
+| ![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white) | Ferramenta para organização das tarefas e acompanhamento do progresso da equipe. |
+
+</div>
+
+
+---
+
+### 📌 Minhas Contribuições
+
+Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais da aplicação:
+
+- 🧩 Criei o **protótipo interativo no Figma**, com conteúdo estruturado, componentes reutilizáveis, várias páginas navegáveis e **questionários funcionais**, ajudando na visualização da experiência do usuário antes da implementação.
+- 📱 Fiz a implementação da imagem de boas vindas na tela inicial para uma melhor aparência do programa.
+- 🧱 Fiz a estruturação do historico de usuário, implementei a o banco de dados e a conexão com ele.
+- 🎯 Implementei a tabela do historico de usuário para os funcuinários da empresa conseguirem visualizar quem acessou tal arquivo em tal horário.
+- 💡 Criei uma tela simples, fácil de utilizar para realizar as perguntas e respostas da Zari.
+
 </details>
 
 <details>
