@@ -44,6 +44,7 @@ Eu sou um desenvolvedor full-stack, venho me esforçando e ampliando meus conhec
   📘 Tech School - Primeiro Semestre (2023-1)
  </summary>
  </br>
+ 
 ## 💻 Tech School
 
 ### 📖 Introdução
@@ -176,6 +177,67 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
    Dashboard Pro4Tech
  </summary>
  </br>
+
+ ## 💻 Dashboard Pro4Tech
+
+### 📖 Introdução
+O desenvolvimento do projeto ocorreu no terceiro semestre do curso, com a empresa Pro4Tech sendo o nosso cliente externo, que me ajudou muito a aproximar da realidade do mercado de trabalho.
+
+---
+
+### 🎯 Objetivo
+
+O objetivo deste projeto foi criar um dashboard dinâmico e interativo para análise e visualização de dados de vendas. O sistema foi projetado para gerar insights visuais claros e rápidos, permitindo que a Pro4Tech tomasse decisões estratégicas baseadas em dados reais, a principal meta foi facilitar a interpretação de grandes volumes de dados de vendas.
+
+---
+
+### ❗ Problema
+
+A Pro4Tech enfrentava o desafio de gerenciar e interpretar grandes volumes de dados de vendas que estavam armazenados em planilhas Excel. A empresa enfrentava dificuldades em visualizar informações importantes de forma rápida e eficiente. Os relatórios manualmente gerados a partir das planilhas eram demorados e complexos, o que tornava o processo de tomada de decisão mais lento e sujeito a erros.
+
+---
+
+### ✅ Solução
+
+Foi criado um sistema web que importa dados diretamente de arquivos Excel, armazena-os em banco de dados, e os exibe em gráficos e tabelas no dashboard. O sistema permite segmentação de dados, cálculo automático de comissões e visualizações personalizadas para gerentes e funcionários.
+
+---
+
+### 🔧 Tecnologias Utilizadas
+
+<div align="center">
+
+| Tecnologias | Aplicação |
+|-------------|-----------|
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | Desenvolvimento das funcionalidades com foco em tipagem segura e escalabilidade. |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Construção de scripts interativos para componentes do dashboard e manipulação de dados. |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | Desenvolvimento da interface completa, incluindo visualizações de vendas, filtros e formulários. |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | Criação do servidor backend para upload de planilhas, processamento dos dados e integração com o banco. |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | Modelagem do banco de dados e persistência segura das informações. |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | Criação dos protótipos de interface, priorizando usabilidade e visual atrativo. |
+| ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | Controle de versão e organização do repositório de código. |
+| ![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white) | Gestão de tarefas ágil, comunicação e organização da equipe durante o projeto. |
+| ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) | Comunicação da equipe com a empresa para solucionar dúvidas importantes durante as sprints. |
+
+</div>
+
+---
+
+### 📌 Minhas Contribuições
+
+Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais da aplicação:
+
+- 🧩 Criei o **protótipo interativo no Figma**, com conteúdo estruturado, componentes reutilizáveis, várias páginas navegáveis e **Gráficos e tabelas**, ajudando na visualização da experiência do usuário antes da implementação.
+- 🧭 Criei o gráfico de vendas mensais por vendedor para o gerente conseguir visualizar melhor o andamento da empresa e analizar as vendas de forma facilitada.
+- 🔁 Realizei a implementação da funcionalidade de Upload da foto de perfil, realizei a construção no banco de dados e tambem a implementação no frontend.
+- 🎯 Desenvolvi a funcionalidade de alterar a foto de perfil.
+- 💡 Implementei a foto de perfil na tabela de vendedores, com atualização automática.
+- 📱 Realizei a função de deletar um vendedor do sistema.
+- 🧭 Desenvolvi modais interativos e responsivos para alterar dados em todas as tabelas do site, facilitando a edição das informações.
+- ☁️ Implementei filtros para os gráficos e tabelas do site para uma melhor navegação e visualização dos dados por parte do gerente
+- ☁️ Implementei o cadastro do vendedor a partir do upload do excel de vendas da empresa, definindo temporariamente o usuário e senha como o cpf do vendedor até ele alterar.
+- ☁️ Implementei o cadastro de clientes na tela de clientes para poder cadastrar nas vendas.
+- Realizei a implementação da visualização do perfil de cada vendedor, contendo apenas as informações dele, com o vendedor podendo ver apenas o perfil dele e o gerente podendo visualizar de todos os vendedores.
 
 </details>
  
