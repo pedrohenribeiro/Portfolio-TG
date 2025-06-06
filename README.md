@@ -104,6 +104,12 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 - ☁️ Realizei a **hospedagem do site** na **AWS**, deixando o projeto disponível para ser acessado durante as apresentações.
 - ☁️ Realizei a **hospedagem do site** na plataforma da **Hostinger**, deixando o projeto disponível publicamente após o periodo do desenvolvimento.
 
+### 🗣️ Soft Skills
+
+- Comunicação: Uso ferramentas como Trello e Teams para manter a equipe alinhada, participo de reuniões e troco mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficam informados e evitamos retrabalho e problemas na entrega.
+- Responsabilidade e iniciativa: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades do site, procurando erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto.
+
+
 ### 🔗 Acesse o projeto online: [techschool.pedrohenribeiro.com](https://techschool.pedrohenribeiro.com/)
 
 
