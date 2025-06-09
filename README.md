@@ -72,25 +72,17 @@ Eu sou um desenvolvedor full-stack, venho me esforçando e ampliando meus conhec
 ### 📖 Introdução
 O desenvolvimento do projeto ocorreu no primeiro semestre do curso, com a direção do professor Antônio Egydio, que simulava ser um cliente externo para aproximar as equipes da realidade do mercado de trabalho.
 
----
-
 ### 🎯 Objetivo
 
 Desenvolver um site informativo, simples e funcional sobre a **Metodologia Ágil**, contendo conceitos e fundamentos, além de exemplos práticos e um sistema de avaliações para o usuário.
-
----
 
 ### ❗ Problema
 
 A empresa do professor Egydio precisava adotar o método Scrum para tornar o trabalho mais ágil, organizado e eficiente. No entanto, os funcionários não tinham nenhum conhecimento sobre metodologias ágeis. Por isso, surgiu a necessidade de criar uma forma prática e acessível para ensiná-los o que é a metodologia ágil, como utilizá-la no dia a dia e como aplicar seus conceitos corretamente.
 
----
-
 ### ✅ Solução
 
 A solução encontrada foi o desenvolvimento de um site utilizando o framework **Flask** para a estrutura das páginas, com **HTML**, **CSS** e **Bootstrap** na construção da interface do usuário. O site apresenta os principais conceitos da Metodologia Ágil de forma clara e objetiva, inclui exemplos práticos e ainda oferece um sistema de avaliação que mede o conhecimento do usuário, além de avaliar o processo e o produto. Tudo isso foi pensado para ser intuitivo, didático e sem sobrecarregar o usuário com informações em excesso.
-
----
 
 ### 🔧 Tecnologias Utilizadas
 
@@ -109,8 +101,6 @@ A solução encontrada foi o desenvolvimento de um site utilizando o framework *
 | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | Controle de versão, armazenamento do repositório e colaboração em equipe. |
 
 </div>
-
----
 
 ### 📌 Minhas Contribuições
 
@@ -137,6 +127,8 @@ https://github.com/user-attachments/assets/a0f2e983-2eaa-4a00-a109-b64bd51f1c20
 
 </details>
 
+---
+
 <details>
  <summary>
    Assistente Zari - Segundo Semestre (2023-2)
@@ -148,25 +140,18 @@ https://github.com/user-attachments/assets/a0f2e983-2eaa-4a00-a109-b64bd51f1c20
 ### 📖 Introdução
 O desenvolvimento do projeto ocorreu no segundo semestre do curso, com a direção do professor Giuliano Bertoti, que simulava ser um cliente externo para aproximar as equipes da realidade do mercado de trabalho.
 
----
 
 ### 🎯 Objetivo
 
 O projeto desenvolvido no 2º semestre teve como objetivo criar um assistente virtual capaz de ler documentos e responder a perguntas relacionadas ao seu conteúdo, facilitando o acesso rápido a informações específicas.
 
----
-
 ### ❗ Problema
 
 O problema surgiu a partir da necessidade dos usuários em localizar informações específicas dentro de documentos extensos de forma mais rápida e prática.
 
----
-
 ### ✅ Solução
 
 Desenvolvemos um chatbot capaz de ler documentos, identificar palavras-chave e responder perguntas em linguagem natural. O sistema torna a busca por informações mais rápida, objetiva e eficiente, simulando uma conversa com o usuário.
-
----
 
 ### 🔧 Tecnologias Utilizadas
 
@@ -183,8 +168,6 @@ Desenvolvemos um chatbot capaz de ler documentos, identificar palavras-chave e r
 
 </div>
 
----
-
 ### 📌 Minhas Contribuições
 
 Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais da aplicação:
@@ -197,6 +180,8 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 
 </details>
 
+---
+
 <details>
  <summary>
    Dashboard Pro4Tech
@@ -208,25 +193,17 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 ### 📖 Introdução
 O desenvolvimento do projeto ocorreu no terceiro semestre do curso, com a empresa Pro4Tech sendo o nosso cliente externo, que me ajudou muito a aproximar da realidade do mercado de trabalho.
 
----
-
 ### 🎯 Objetivo
 
 O objetivo deste projeto foi criar um dashboard dinâmico e interativo para análise e visualização de dados de vendas. O sistema foi projetado para gerar insights visuais claros e rápidos, permitindo que a Pro4Tech tomasse decisões estratégicas baseadas em dados reais, a principal meta foi facilitar a interpretação de grandes volumes de dados de vendas.
-
----
 
 ### ❗ Problema
 
 A Pro4Tech enfrentava o desafio de gerenciar e interpretar grandes volumes de dados de vendas que estavam armazenados em planilhas Excel. A empresa enfrentava dificuldades em visualizar informações importantes de forma rápida e eficiente. Os relatórios manualmente gerados a partir das planilhas eram demorados e complexos, o que tornava o processo de tomada de decisão mais lento e sujeito a erros.
 
----
-
 ### ✅ Solução
 
 Foi criado um sistema web que importa dados diretamente de arquivos Excel, armazena-os em banco de dados, e os exibe em gráficos e tabelas no dashboard. O sistema permite segmentação de dados, cálculo automático de comissões e visualizações personalizadas para gerentes e funcionários.
-
----
 
 ### 🔧 Tecnologias Utilizadas
 
@@ -246,8 +223,6 @@ Foi criado um sistema web que importa dados diretamente de arquivos Excel, armaz
 
 </div>
 
----
-
 ### 📌 Minhas Contribuições
 
 Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais da aplicação:
@@ -265,19 +240,82 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 - Realizei a implementação da visualização do perfil de cada vendedor, contendo apenas as informações dele, com o vendedor podendo ver apenas o perfil dele e o gerente podendo visualizar de todos os vendedores.
 
 </details>
+
+ ---
  
 <details>
  <summary>
    WE COLEB - JJM Log
  </summary>
  </br>
+
+ ## 💻 WE COLEB - JJM Log
+
+### 📖 Introdução
+O desenvolvimento do projeto ocorreu no quarto semestre do curso, com a empresa JJM Log sendo o nosso cliente externo, que me ajudou muito a aproximar da realidade do mercado de trabalho.
+
+### 🎯 Objetivo
+
+O objetivo deste projeto foi desenvolver um sistema web que otimizasse o controle de processos internos na JJM Log, facilitando a colaboração entre diferentes departamentos e automatizando atividades manuais. A principal meta foi melhorar a integração entre setores e proporcionar uma gestão de demandas mais eficiente e em tempo real.
+
+### ❗ Problema
+
+A empresa enfrentava desafios relacionados ao controle de processos internos, com fluxos manuais e o uso de múltiplas ferramentas não integradas, o que dificultava a visibilidade e a colaboração entre departamentos. A falta de uma plataforma centralizada resultava em ineficiência e dificuldades na comunicação entre as equipes.
+
+### ✅ Solução
+
+Foi criado um sistema web com funcionalidades específicas para o controle de demandas internas, com telas customizadas para diferentes tipos de usuários e permissões. O sistema automatizou processos manuais e facilitou o acompanhamento das atividades em tempo real, promovendo maior colaboração e integração entre os departamentos da JJM Log.
+
+
+ ### 🔧 Tecnologias Utilizadas
+ 
+ <div align="center">
+ 
+ | Tecnologias | Aplicação |
+ |-------------|-----------|
+ | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | Linguagem principal no frontend e backend, garantindo tipagem estática e maior organização do código;. |
+ | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | Definição de tipagens seguras no código para melhorar a qualidade e a legibilidade. |
+ | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | Desenvolvimento da lógica de backend e integração com banco de dados. |
+ | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | Modelagem e persistência dos dados de usuários, permissões e atividades. |
+ | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | Ferramenta de design para o protótipo do site. |
+ | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | Versionamento e organização do código do projeto. |
+ | ![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=Trello&logoColor=white) | Gestão de tarefas, sprints e prioridades durante o ciclo de desenvolvimento. |
+ 
+ </div>
+ 
+ ### 📌 Minhas Contribuições
+ 
+ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais da aplicação:
  
 </details>
+
+---
 
 <details>
  <summary>
    SistemaReembolso - GSW Software
  </summary>
  </br>
+ ## 💻 SistemaReembolso - GSW Software
+ 
+ ### 📖 Introdução
+
+ ### 🎯 Objetivo
+
+ ### ❗ Problema
+ 
+ ### ✅ Solução
+ 
+ ### 🔧 Tecnologias Utilizadas
+  
+ <div align="center">
+  
+
+ </div>
+ 
+ 
+ ### 📌 Minhas Contribuições
+  
+ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais da aplicação:
 
 </details>
