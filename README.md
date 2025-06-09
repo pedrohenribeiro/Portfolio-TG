@@ -17,7 +17,6 @@ Posteriormente, decidi mudar minha direção de estudos e ingressei na Fatec par
 Ganhei experiência significativa na metodologia ágil Scrum, atuando como Scrum Master e desenvolvedor(Dev Team) em diversos projetos.
 
 Estou em busca da minha primeira oportunidade na área de tecnologia. Tenho muita vontade de aprender, crescer e contribuir com o time. Gosto de encarar desafios e estou sempre buscando evoluir, tanto nas habilidades técnicas quanto nas interpessoais.
-
  
 ## 📬 Contatos
 
@@ -29,7 +28,6 @@ Estou em busca da minha primeira oportunidade na área de tecnologia. Tenho muit
 ## 🚀 Meus Principais Conhecimentos
 
 Eu sou um desenvolvedor full-stack, venho me esforçando e ampliando meus conhecimentos na área, com forte interesse na área de Game Design. Entre todos os meus conhecimentos, se destacam:
-
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
@@ -133,9 +131,7 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 - Comunicação: Uso ferramentas como Trello e Teams para manter a equipe alinhada, participo de reuniões e troco mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficam informados e evitamos retrabalho e problemas na entrega.
 - Responsabilidade e iniciativa: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades do site, procurando erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto.
 
-
 ### 🔗 Acesse o site pelo seu computador ou celular: [techschool.pedrohenribeiro.com](https://techschool.pedrohenribeiro.com/)
-
 
 https://github.com/user-attachments/assets/a0f2e983-2eaa-4a00-a109-b64bd51f1c20
 
@@ -186,7 +182,6 @@ Desenvolvemos um chatbot capaz de ler documentos, identificar palavras-chave e r
 | ![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white) | Ferramenta para organização das tarefas e acompanhamento do progresso da equipe. |
 
 </div>
-
 
 ---
 
