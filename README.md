@@ -211,6 +211,11 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 - **Comunicação clara e colaboração**: Colaborei ativamente com colegas durante o desenvolvimento, mantendo todos atualizados sobre as funcionalidades implementadas, pontos de bloqueio e sugestões de melhorias. A comunicação eficiente evitou retrabalho e acelerou a resolução de problemas.
 
 
+
+https://github.com/user-attachments/assets/b9de3350-71d2-4ad3-a420-aecd0e3ad960
+
+
+
 * [Link do Repositório](https://github.com/Equipe-Meta-Code/Zari-documentation.git)
 
 </details>
@@ -292,6 +297,8 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 
 - **Responsabilidade com entregas**: Cumpri os prazos definidos e acompanhei o desempenho da aplicação em diferentes cenários, garantindo estabilidade e qualidade no produto final.
 
+https://github.com/user-attachments/assets/d50f0911-4db3-4cdc-866b-629e5dccba10
+
 * [Link do Repositório](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech.git)
   
 </details>
@@ -370,6 +377,12 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 - **Capacidade de análise e solução de problemas**: Durante o desenvolvimento, identifiquei gargalos e problemas em funcionalidades tanto do backend quanto do frontend. Propus soluções, corrigi bugs e refinei o código em parceria com o time, evitando retrabalho e melhorando a performance da aplicação.
 
 - **Responsabilidade**: Testei todas as funcionalidades antes de enviá-las, garantindo que estivessem funcionando corretamente e sem bugs. Também revisei partes do código para manter a qualidade e a consistência do projeto.
+
+
+
+https://github.com/user-attachments/assets/4bfc8871-4f3e-42fb-9125-5fbd32882ad0
+
+
 
 * [Link do Repositório](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log.git)
  
@@ -475,6 +488,12 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 
 - **Comunicação**: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
 - **Responsabilidade e iniciativa**: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto. No final de todas as sprints sempre realizei testes em todas as funcionalidades do aplicativo e site, resolvi erros e comuniquei a equipe, também conversei com os outros membros sobre entregas atrasadas e ajudei em algumas tarefas para poderem ser entregues a tempo.
+
+
+
+https://github.com/user-attachments/assets/e8f566de-2b5f-4ca0-95ba-d64c7feaa85c
+
+
 
 * [Link do Repositório](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
   
