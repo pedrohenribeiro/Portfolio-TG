@@ -343,6 +343,28 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
  
  ### 📌 Minhas Contribuições
   
- Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais da aplicação:
+ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais do Sistema de Reembolso(APP), Sistema Corporativo(WEB) e Backend:
 
+- 🧩 Desenvolvi a tela de perfil do usuario, mostrando os dados cadastrados e a quantidade de projetos e despesas pendentes e o menu geral com opções importantes para o usuário.
+- Criei o Mock para a simulação inicial de projetos que o usuário faz parte.
+- Criei a estrutura do Sistema Corporativo.
+- Desenvolvi a navegação do Sistema Corporativo com menu lateral retrátil.
+- Desenvolvi a Lista de despesas organizada por pacotes, exibindo as cores definidas para cada categoria para facilitar a visualização.
+- Desenvolvi o sistema de aprovação de cada pacote, com o gerente podendo aprovar ou recusar o pacote completo ou customizar e aprovar ou recusar despesas individualmente.
+- Desenvolvi filtros para o Sistema Corporativo, facilitando para o gerente a busca de dados específicos.
+- Desenvolvi a responsividade do Sistema Corporativo
+- Desenvolvi a Navbar com título ajustável para cada página utilizando props.
+- Desenvolvi a criação de novos projetos, possibilitando a adição de multiplos funcionarios, departamentos e categorias, com o gerende definindo o valor máximo de reembolso de cada categoria individualmente em cada projeto.
+- Implementei a função de adicionar um funcionario a um projeto já criado.
+- Configurei e implantei o backend no servidor da VPS da hostinger
+- Disponibilizei o backend na VPS da hostinger, com ele podendo ser utilizado por todos durante o desenvolvimento para não precisar executar caso não fosse necessárias mudanças.
+- Disponibilizei o Sistema Corporativo na Hostinger para ser acessível por todos os dispositivos.
+- Desenvolvi o sistema de upload de foto de perfil, possibilitando o upload pela galeria ou tirando uma foto com a câmera.
+- Desenvolvi o upload de comprovantes, possibilitei o upload de PDF e fotos da galeria ou câmera, com a possibilidade de realizar multiplos uploads de comprovantes para cada despesa.
+- Desenvolvi a previsualização de comprovantes antes de registrar a despesa.
+- Desenvolvi a funcionalidade de registrar multiplas despesas, com o usuário podendo adicionar quantas despesas preferir e também podendo visualizar e editar cada despesa antes de registrar.
+- Estruturei o modelo de projetos no banco de dados.
+- Desenvolvi o Crud de categorias, departamentos e projetos
+- Gerei o apk do aplicativo, possibilitando a instalação do sistema de reembolso em celulares android.
+  
 </details>
