@@ -116,11 +116,26 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 - Realizei a **hospedagem do site** na **AWS**, deixando o projeto disponível para ser acessado durante as apresentações.
 - Realizei a **hospedagem do site** na plataforma da **Hostinger**, deixando o projeto disponível publicamente após o periodo do desenvolvimento.
 
+### Hard Skills
+
+- Flask: Possuo autonomia para ensinar.
+- Python: Possuo autonomia para ensinar.
+- HTML: Possuo autonomia para ensinar.
+- CSS: Possuo autonomia para ensinar.
+- JavaScript: Sei fazer com autonomia.
+- Bootstrap: Sei fazer com autonomia.
+- Figma: Sei fazer com autonomia.
+- Trello: Sei fazer com autonomia.
+- GitHub: Sei fazer com autonomia.
+
 ### 🗣️ Soft Skills
 
-- Comunicação: Uso ferramentas como Trello e Teams para manter a equipe alinhada, participo de reuniões e troco mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficam informados e evitamos retrabalho e problemas na entrega.
-- Responsabilidade e iniciativa: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades do site, procurando erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto.
+- **Foco na experiência do usuário**: Utilizei protótipos criados no Figma como base para a construção do layout final, sempre buscando melhorar a navegação e a estética do site com atenção à responsividade e clareza das informações.
 
+- **Proatividade e resolução de problemas**: Identifiquei melhorias no código e na estrutura do site ao longo do desenvolvimento. Corrigi bugs, otimizei funcionalidades como o modo escuro e a validação de formulários, e garanti que tudo estivesse funcional antes da entrega final.
+
+- **Responsabilidade**: Cumpri os prazos definidos no projeto, organizando minhas tarefas no Trello e mantendo constância no desenvolvimento. Entreguei todas as funcionalidades com atenção aos requisitos e aos detalhes técnicos.
+  
 ### 🔗 Acesse o site pelo seu computador ou celular: [techschool.pedrohenribeiro.com](https://techschool.pedrohenribeiro.com/)
 
 https://github.com/user-attachments/assets/a0f2e983-2eaa-4a00-a109-b64bd51f1c20
@@ -170,6 +185,15 @@ Desenvolvemos um chatbot capaz de ler documentos, identificar palavras-chave e r
 
 </div>
 
+### Hard Skills
+
+- Java: Realizo com auxílio.
+- Gradle: Realizo com auxílio.
+- MySQL: Sei fazer com autonomia.
+- Figma: Sei fazer com autonomia.
+- Eclipse: Sei fazer com autonomia.
+- Trello: Sei fazer com autonomia.
+
 ### 📌 Minhas Contribuições
 
 Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais da aplicação:
@@ -182,8 +206,10 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 
 ### 🗣️ Soft Skills
 
-- Comunicação: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
-- Responsabilidade e iniciativa: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto.
+- **Organização e gestão de tarefas**: Utilizei o Trello para estruturar as demandas do projeto, definir prioridades e acompanhar o progresso da equipe. Isso garantiu uma visão clara do que precisava ser feito e permitiu maior controle sobre os prazos.
+
+- **Comunicação clara e colaboração**: Colaborei ativamente com colegas durante o desenvolvimento, mantendo todos atualizados sobre as funcionalidades implementadas, pontos de bloqueio e sugestões de melhorias. A comunicação eficiente evitou retrabalho e acelerou a resolução de problemas.
+
 
 * [Link do Repositório](https://github.com/Equipe-Meta-Code/Zari-documentation.git)
 
@@ -248,10 +274,23 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 - Implementei o cadastro de clientes na tela de clientes para poder cadastrar nas vendas.
 - Realizei a implementação da visualização do perfil de cada vendedor, contendo apenas as informações dele, com o vendedor podendo ver apenas o perfil dele e o gerente podendo visualizar de todos os vendedores.
 
+### Hard Skills
+
+- TypeScript: Consigo ensinar.
+- MySQL: Sei fazer com autonomia.
+- React: Consigo ensinar.
+- Node.js: Sei fazer com autonomia.
+- Figma: Sei fazer com autonomia.
+- GitHub: Sei fazer com autonomia.
+- Trello: Sei fazer com autonomia.
+
 ### 🗣️ Soft Skills
 
-- Comunicação: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
-- Responsabilidade e iniciativa: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto.
+- **Comunicação eficaz**: Participei ativamente de reuniões para alinhamento de ideias e definição de objetivos. Compartilhei atualizações e feedbacks com clareza e objetividade, promovendo um ambiente de trabalho colaborativo e evitando retrabalho.
+  
+- **Foco em usabilidade**: Colaborei com o time de design utilizando o Figma para validar e sugerir ajustes em telas que melhorassem a experiência do usuário. Também sugeri melhorias visuais com base em testes e feedbacks do time.
+
+- **Responsabilidade com entregas**: Cumpri os prazos definidos e acompanhei o desempenho da aplicação em diferentes cenários, garantindo estabilidade e qualidade no produto final.
 
 * [Link do Repositório](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech.git)
   
@@ -314,9 +353,9 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 
  ### Hard Skills
  
-- TypeScript: Sei fazer com autonomia.
+- TypeScript: Consigo ensinar.
 - MySQL: Sei fazer com autonomia.
-- React: Sei fazer com autonomia.
+- React: Consigo ensinar.
 - Node.js: Sei fazer com autonomia.
 - Figma: Sei fazer com autonomia.
 - GitHub: Sei fazer com autonomia.
@@ -330,6 +369,7 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 
 - **Capacidade de análise e solução de problemas**: Durante o desenvolvimento, identifiquei gargalos e problemas em funcionalidades tanto do backend quanto do frontend. Propus soluções, corrigi bugs e refinei o código em parceria com o time, evitando retrabalho e melhorando a performance da aplicação.
 
+- **Responsabilidade**: Testei todas as funcionalidades antes de enviá-las, garantindo que estivessem funcionando corretamente e sem bugs. Também revisei partes do código para manter a qualidade e a consistência do projeto.
 
 * [Link do Repositório](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log.git)
  
@@ -415,20 +455,21 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 
 ### Hard Skills
 
-- TypeScript: Sei fazer com autonomia.
+- TypeScript: Consigo ensinar.
 - MySQL: Sei fazer com autonomia. 
-- React: Sei fazer com autonomia.
-- React Native: Sei fazer com autonomia.
+- React: Consigo ensinar.
+- React Native: Consigo ensinar.
 - MongoDB: Sei fazer com autonomia.
 - Expo: Sei fazer com autonomia.
 - Android Studio: Sei fazer com autonomia.
-- NodeJS: Sei fazer com autonomia.
-- CSS: Sei fazer com autonomia.
+- NodeJS: Consigo ensinar.
+- CSS: Consigo ensinar.
 - GIT: Sei fazer com autonomia.
 - Figma: Sei fazer com autonomia.
 - GitHub: Sei fazer com autonomia.
 - Jira: Sei fazer com autonomia.
-- Deploy na VPS: Sei fazer com autonomia.
+- Deploy na VPS: Consigo ensinar.
+- Deploy na Hostinger: Consigo ensinar.
 
 ### 🗣️ Soft Skills
 
