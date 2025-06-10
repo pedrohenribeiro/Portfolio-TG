@@ -106,15 +106,15 @@ A solução encontrada foi o desenvolvimento de um site utilizando o framework *
 
 Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais da aplicação:
 
-- 🧩 Criei um dos **protótipos interativos no Figma**, com conteúdo estruturado, componentes reutilizáveis, várias páginas navegáveis e **questionários funcionais**, ajudando na visualização da experiência do usuário antes da implementação.
-- 🧱 Estruturei a organização geral do site, planejando a disposição dos elementos e o posicionamento dos conteúdos e imagens.
-- 🔁 Implementei o **framework Flask** para gerenciar as rotas e o layout geral do site.
-- 🎯 Desenvolvi **botões animados** no final de cada página que redirecionam o usuário para outras seções do site.
-- 💡 Criei **modais interativos** com exemplos de ferramentas, além de botões para **download de arquivos**, como burndown e backlog.
-- 📱 Fiz toda a parte de **responsividade** do site, garantindo uma boa experiência em monitores grandes, celulares e tablets.
-- 🧭 Desenvolvi um **footer responsivo**, mantendo a identidade visual consistente em todas as páginas.
-- ☁️ Realizei a **hospedagem do site** na **AWS**, deixando o projeto disponível para ser acessado durante as apresentações.
-- ☁️ Realizei a **hospedagem do site** na plataforma da **Hostinger**, deixando o projeto disponível publicamente após o periodo do desenvolvimento.
+- Criei um dos **protótipos interativos no Figma**, com conteúdo estruturado, componentes reutilizáveis, várias páginas navegáveis e **questionários funcionais**, ajudando na visualização da experiência do usuário antes da implementação.
+- Estruturei a organização geral do site, planejando a disposição dos elementos e o posicionamento dos conteúdos e imagens.
+- Implementei o **framework Flask** para gerenciar as rotas e o layout geral do site.
+- Desenvolvi **botões animados** no final de cada página que redirecionam o usuário para outras seções do site.
+- Criei **modais interativos** com exemplos de ferramentas, além de botões para **download de arquivos**, como burndown e backlog.
+- Fiz toda a parte de **responsividade** do site, garantindo uma boa experiência em monitores grandes, celulares e tablets.
+- Desenvolvi um **footer responsivo**, mantendo a identidade visual consistente em todas as páginas.
+- Realizei a **hospedagem do site** na **AWS**, deixando o projeto disponível para ser acessado durante as apresentações.
+- Realizei a **hospedagem do site** na plataforma da **Hostinger**, deixando o projeto disponível publicamente após o periodo do desenvolvimento.
 
 ### 🗣️ Soft Skills
 
@@ -125,6 +125,8 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 
 https://github.com/user-attachments/assets/a0f2e983-2eaa-4a00-a109-b64bd51f1c20
 
+* [Link do Repositório](https://github.com/pedrohenribeiro/Projeto-de-API-1-Semestre.git)
+  
 </details>
 
 ---
@@ -172,11 +174,18 @@ Desenvolvemos um chatbot capaz de ler documentos, identificar palavras-chave e r
 
 Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais da aplicação:
 
-- 🧩 Criei o **protótipo interativo no Figma**, com conteúdo estruturado, componentes reutilizáveis, várias páginas navegáveis e **questionários funcionais**, ajudando na visualização da experiência do usuário antes da implementação.
-- 📱 Fiz a implementação da imagem de boas vindas na tela inicial para uma melhor aparência do programa.
-- 🧱 Fiz a estruturação do historico de usuário, implementei a o banco de dados e a conexão com ele.
-- 🎯 Implementei a tabela do historico de usuário para os funcuinários da empresa conseguirem visualizar quem acessou tal arquivo em tal horário.
-- 💡 Criei uma tela simples, fácil de utilizar para realizar as perguntas e respostas da Zari.
+- Criei o **protótipo interativo no Figma**, com conteúdo estruturado, componentes reutilizáveis, várias páginas navegáveis e **questionários funcionais**, ajudando na visualização da experiência do usuário antes da implementação.
+- Fiz a implementação da imagem de boas vindas na tela inicial para uma melhor aparência do programa.
+- Fiz a estruturação do historico de usuário, implementei a o banco de dados e a conexão com ele.
+- Implementei a tabela do historico de usuário para os funcuinários da empresa conseguirem visualizar quem acessou tal arquivo em tal horário.
+- Criei uma tela simples, fácil de utilizar para realizar as perguntas e respostas da Zari.
+
+### 🗣️ Soft Skills
+
+- Comunicação: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
+- Responsabilidade e iniciativa: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto.
+
+* [Link do Repositório](https://github.com/Equipe-Meta-Code/Zari-documentation.git)
 
 </details>
 
@@ -227,18 +236,25 @@ Foi criado um sistema web que importa dados diretamente de arquivos Excel, armaz
 
 Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais da aplicação:
 
-- 🧩 Criei o **protótipo interativo no Figma**, com conteúdo estruturado, componentes reutilizáveis, várias páginas navegáveis e **Gráficos e tabelas**, ajudando na visualização da experiência do usuário antes da implementação.
-- 🧭 Criei o gráfico de vendas mensais por vendedor para o gerente conseguir visualizar melhor o andamento da empresa e analizar as vendas de forma facilitada.
-- 🔁 Realizei a implementação da funcionalidade de Upload da foto de perfil, realizei a construção no banco de dados e tambem a implementação no frontend.
-- 🎯 Desenvolvi a funcionalidade de alterar a foto de perfil.
-- 💡 Implementei a foto de perfil na tabela de vendedores, com atualização automática.
-- 📱 Realizei a função de deletar um vendedor do sistema.
-- 🧭 Desenvolvi modais interativos e responsivos para alterar dados em todas as tabelas do site, facilitando a edição das informações.
-- ☁️ Implementei filtros para os gráficos e tabelas do site para uma melhor navegação e visualização dos dados por parte do gerente
-- ☁️ Implementei o cadastro do vendedor a partir do upload do excel de vendas da empresa, definindo temporariamente o usuário e senha como o cpf do vendedor até ele alterar.
-- ☁️ Implementei o cadastro de clientes na tela de clientes para poder cadastrar nas vendas.
+- Criei o **protótipo interativo no Figma**, com conteúdo estruturado, componentes reutilizáveis, várias páginas navegáveis e **Gráficos e tabelas**, ajudando na visualização da experiência do usuário antes da implementação.
+- Criei o gráfico de vendas mensais por vendedor para o gerente conseguir visualizar melhor o andamento da empresa e analizar as vendas de forma facilitada.
+- Realizei a implementação da funcionalidade de Upload da foto de perfil, realizei a construção no banco de dados e tambem a implementação no frontend.
+- Desenvolvi a funcionalidade de alterar a foto de perfil.
+- Implementei a foto de perfil na tabela de vendedores, com atualização automática.
+- Realizei a função de deletar um vendedor do sistema.
+- Desenvolvi modais interativos e responsivos para alterar dados em todas as tabelas do site, facilitando a edição das informações.
+- Implementei filtros para os gráficos e tabelas do site para uma melhor navegação e visualização dos dados por parte do gerente
+- Implementei o cadastro do vendedor a partir do upload do excel de vendas da empresa, definindo temporariamente o usuário e senha como o cpf do vendedor até ele alterar.
+- Implementei o cadastro de clientes na tela de clientes para poder cadastrar nas vendas.
 - Realizei a implementação da visualização do perfil de cada vendedor, contendo apenas as informações dele, com o vendedor podendo ver apenas o perfil dele e o gerente podendo visualizar de todos os vendedores.
 
+### 🗣️ Soft Skills
+
+- Comunicação: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
+- Responsabilidade e iniciativa: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto.
+
+* [Link do Repositório](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech.git)
+  
 </details>
 
  ---
@@ -286,6 +302,15 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
  ### 📌 Minhas Contribuições
  
  Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais da aplicação:
+
+ -
+
+ ### 🗣️ Soft Skills
+
+- Comunicação: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
+- Responsabilidade e iniciativa: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto.
+
+* [Link do Repositório](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log.git)
  
 </details>
 
@@ -345,7 +370,7 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
   
  Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais do Sistema de Reembolso(APP), Sistema Corporativo(WEB) e Backend:
 
-- 🧩 Desenvolvi a tela de perfil do usuario, mostrando os dados cadastrados e a quantidade de projetos e despesas pendentes e o menu geral com opções importantes para o usuário.
+- Desenvolvi a tela de perfil do usuario, mostrando os dados cadastrados e a quantidade de projetos e despesas pendentes e o menu geral com opções importantes para o usuário.
 - Criei o Mock para a simulação inicial de projetos que o usuário faz parte.
 - Criei a estrutura do Sistema Corporativo.
 - Desenvolvi a navegação do Sistema Corporativo com menu lateral retrátil.
@@ -365,6 +390,13 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 - Desenvolvi a funcionalidade de registrar multiplas despesas, com o usuário podendo adicionar quantas despesas preferir e também podendo visualizar e editar cada despesa antes de registrar.
 - Estruturei o modelo de projetos no banco de dados.
 - Desenvolvi o Crud de categorias, departamentos e projetos
+
+### 🗣️ Soft Skills
+
+- Comunicação: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
+- Responsabilidade e iniciativa: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto.
 - Gerei o apk do aplicativo, possibilitando a instalação do sistema de reembolso em celulares android.
+
+* [Link do Repositório](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
   
 </details>
