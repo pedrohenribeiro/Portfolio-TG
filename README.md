@@ -303,8 +303,17 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
  
  Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais da aplicação:
 
- -
+ - Desenvolvi o protótipo interativo no figma
+ - Desenvolvi o Backend do fluxograma do sistema.
+ - Desenvolvi o Frontend e Backend da ordem de solicitação de serviços.
+ - Desenvolvi o update e delete de etapas e pedidos.
+ - Realizei a criação do historico de conclusão de etapas.
+ - Desenvolvi o portal de funcionarios do sistema, possibilitando o upload de arquivos, visualização de arquivos já existentes e a remoção de arquivos errados.
+ - Desenvolvi o Upload de PDF no Portal de Funcionarios
+ - Desenvolvi o cadastro de cargos quando o gerente cadastra um funcionario novo, podendo escolher o cargo dele.
 
+ ### 🗣️ Soft Skills
+  
  ### 🗣️ Soft Skills
 
 - Comunicação: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
