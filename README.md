@@ -116,7 +116,7 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 - Realizei a **hospedagem do site** na **AWS**, deixando o projeto disponível para ser acessado durante as apresentações.
 - Realizei a **hospedagem do site** na plataforma da **Hostinger**, deixando o projeto disponível publicamente após o periodo do desenvolvimento.
 
-### Hard Skills
+### 💻 Hard Skills
 
 - Flask: Possuo autonomia para ensinar.
 - Python: Possuo autonomia para ensinar.
@@ -185,7 +185,7 @@ Desenvolvemos um chatbot capaz de ler documentos, identificar palavras-chave e r
 
 </div>
 
-### Hard Skills
+### 💻 Hard Skills
 
 - Java: Realizo com auxílio.
 - Gradle: Realizo com auxílio.
@@ -279,7 +279,7 @@ Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenc
 - Implementei o cadastro de clientes na tela de clientes para poder cadastrar nas vendas.
 - Realizei a implementação da visualização do perfil de cada vendedor, contendo apenas as informações dele, com o vendedor podendo ver apenas o perfil dele e o gerente podendo visualizar de todos os vendedores.
 
-### Hard Skills
+### 💻 Hard Skills
 
 - TypeScript: Consigo ensinar.
 - MySQL: Sei fazer com autonomia.
@@ -358,7 +358,7 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
  - Desenvolvi o Upload de PDF no Portal de Funcionarios
  - Desenvolvi o cadastro de cargos quando o gerente cadastra um funcionario novo, podendo escolher o cargo dele.
 
- ### Hard Skills
+ ### 💻 Hard Skills
  
 - TypeScript: Consigo ensinar.
 - MySQL: Sei fazer com autonomia.
@@ -438,8 +438,6 @@ https://github.com/user-attachments/assets/4bfc8871-4f3e-42fb-9125-5fbd32882ad0
 
 </div>
 
- 
- 
  ### 📌 Minhas Contribuições
   
  Durante o desenvolvimento do projeto, atuei diretamente em várias áreas essenciais do Sistema de Reembolso(APP), Sistema Corporativo(WEB) e Backend:
@@ -466,7 +464,7 @@ https://github.com/user-attachments/assets/4bfc8871-4f3e-42fb-9125-5fbd32882ad0
 - Desenvolvi o Crud de categorias, departamentos e projetos
 - Gerei o apk do aplicativo, possibilitando a instalação do sistema de reembolso em celulares android.
 
-### Hard Skills
+### 💻 Hard Skills
 
 - TypeScript: Consigo ensinar.
 - MySQL: Sei fazer com autonomia. 
