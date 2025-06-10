@@ -296,22 +296,49 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
    SistemaReembolso - GSW Software
  </summary>
  </br>
+ 
  ## 💻 SistemaReembolso - GSW Software
  
  ### 📖 Introdução
-
+ O desenvolvimento do projeto ocorreu no quarto semestre do curso, com a empresa GSW sendo o nosso cliente externo, que me ajudou muito a aproximar da realidade do mercado de trabalho.
+ 
  ### 🎯 Objetivo
+ 
+ O objetivo deste projeto foi criar um aplicativo móvel para a solicitação de reembolsos de despesas pelos colaboradores da GSW Software. A principal meta foi automatizar e agilizar o processo de solicitação, garantindo que os dados de reembolso fossem registrados com precisão, enviados para aprovação de forma eficiente e gerenciados de maneira centralizada.
+
 
  ### ❗ Problema
+
+ O problema surgiu a partir da dificuldade da empresa em tornar o processo de reembolso mais prático, ágil e seguro. Até então, os registros eram manuais, propensos a erros, e geravam atrasos na análise e aprovação das solicitações, comprometendo a produtividade dos colaboradores e gestores.
  
  ### ✅ Solução
- 
- ### 🔧 Tecnologias Utilizadas
-  
- <div align="center">
-  
 
- </div>
+ Solução: desenvolvemos uma solução completa composta por dois sistemas integrados. Um aplicativo móvel que oferece aos funcionários uma forma prática e rápida de registrar despesas, anexar comprovantes e acompanhar o status das solicitações diretamente pelo celular. E um sistema web corporativo voltado para os gerentes, com funcionalidades para revisar, acompanhar e aprovar os reembolsos em tempo real, promovendo agilidade, controle e transparência em todo o processo.
+ 
+### 🔧 Tecnologias Utilizadas
+
+<div align="center">
+
+| Tecnologias | Aplicação |
+|-------------|-----------|
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | Linguagem principal usada no app e no sistema web, trazendo segurança e organização ao código. |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | Utilizado no desenvolvimento do sistema web corporativo (interface dos gerentes). |
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | Usado para a criação do aplicativo móvel de solicitação de reembolsos. |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | Plataforma utilizada para desenvolvimento da API RESTful que conecta o app e o sistema web. |
+| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | Ferramenta utilizada para testar e documentar as requisições HTTP da API. |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | Banco de dados NoSQL usado para armazenar informações de usuários, despesas e projetos. |
+| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | Utilizado especificamente para armazenar arquivos (comprovantes e fotos) de forma segura. |
+| ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) | Ambiente utilizado para gerar o APK e testar o app em dispositivos Android. |
+| ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | O app foi desenvolvido exclusivamente para a plataforma Android, com APK disponibilizado. |
+| ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white) | Framework para facilitar o desenvolvimento, testes e build do app em React Native. |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | Ferramenta utilizada para o design e prototipação das telas do sistema e aplicativo. |
+| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) | Utilizada para gestão ágil de tarefas, acompanhamento das sprints e organização do time. |
+| ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) | Plataforma de comunicação utilizada entre equipe e cliente durante o desenvolvimento. |
+| ![Git](https://img.shields.io/badge/Fork-000000?style=for-the-badge&logo=git&logoColor=white) | Versionamento baseado em forks para criação de ramificações seguras e colaboração. |
+| ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | Editor de código utilizado durante todo o projeto. |
+
+</div>
+
  
  
  ### 📌 Minhas Contribuições
