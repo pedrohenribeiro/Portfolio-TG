@@ -312,12 +312,24 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
  - Desenvolvi o Upload de PDF no Portal de Funcionarios
  - Desenvolvi o cadastro de cargos quando o gerente cadastra um funcionario novo, podendo escolher o cargo dele.
 
- ### 🗣️ Soft Skills
+ ### Hard Skills
+ 
+- TypeScript: Sei fazer com autonomia.
+- MySQL: Sei fazer com autonomia.
+- React: Sei fazer com autonomia.
+- Node.js: Sei fazer com autonomia.
+- Figma: Sei fazer com autonomia.
+- GitHub: Sei fazer com autonomia.
+- Trello: Sei fazer com autonomia.
   
  ### 🗣️ Soft Skills
 
-- Comunicação: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
-- Responsabilidade e iniciativa: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto.
+- **Colaboração em equipe**: Trabalhei em conjunto com os membros da equipe utilizando o Trello para acompanhar o andamento das tarefas e garantir o alinhamento entre todos. Participei ativamente de reuniões para definição de prioridades e adaptação de prazos, contribuindo com ideias e garantindo uma boa comunicação entre a equipe.
+
+- **Organização e gestão de tempo**: Ajudei a organizar as tarefas por prioridade e complexidade, dividindo demandas maiores em subtarefas menores para facilitar o acompanhamento. Isso garantiu entregas dentro dos prazos e melhor acompanhamento da evolução do projeto.
+
+- **Capacidade de análise e solução de problemas**: Durante o desenvolvimento, identifiquei gargalos e problemas em funcionalidades tanto do backend quanto do frontend. Propus soluções, corrigi bugs e refinei o código em parceria com o time, evitando retrabalho e melhorando a performance da aplicação.
+
 
 * [Link do Repositório](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log.git)
  
@@ -420,8 +432,8 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 
 ### 🗣️ Soft Skills
 
-- Comunicação: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
-- Responsabilidade e iniciativa: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto. No final de todas as sprints sempre realizei testes em todas as funcionalidades do aplicativo e site, resolvi erros e comuniquei a equipe, também conversei com os outros membros sobre entregas atrasadas e ajudei em algumas tarefas para poderem ser entregues a tempo.
+- **Comunicação**: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
+- **Responsabilidade e iniciativa**: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto. No final de todas as sprints sempre realizei testes em todas as funcionalidades do aplicativo e site, resolvi erros e comuniquei a equipe, também conversei com os outros membros sobre entregas atrasadas e ajudei em algumas tarefas para poderem ser entregues a tempo.
 
 * [Link do Repositório](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
   
