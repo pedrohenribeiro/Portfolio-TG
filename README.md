@@ -392,10 +392,27 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 - Desenvolvi o Crud de categorias, departamentos e projetos
 - Gerei o apk do aplicativo, possibilitando a instalação do sistema de reembolso em celulares android.
 
+### Hard Skills
+
+- TypeScript: Sei fazer com autonomia.
+- MySQL: Sei fazer com autonomia. 
+- React: Sei fazer com autonomia.
+- React Native: Sei fazer com autonomia.
+- MongoDB: Sei fazer com autonomia.
+- Expo: Sei fazer com autonomia.
+- Android Studio: Sei fazer com autonomia.
+- NodeJS: Sei fazer com autonomia.
+- CSS: Sei fazer com autonomia.
+- GIT: Sei fazer com autonomia.
+- Figma: Sei fazer com autonomia.
+- GitHub: Sei fazer com autonomia.
+- Jira: Sei fazer com autonomia.
+- Deploy na VPS: Sei fazer com autonomia.
+
 ### 🗣️ Soft Skills
 
 - Comunicação: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
-- Responsabilidade e iniciativa: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto.
+- Responsabilidade e iniciativa: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto. No final de todas as sprints sempre realizei testes em todas as funcionalidades do aplicativo e site, resolvi erros e comuniquei a equipe, também conversei com os outros membros sobre entregas atrasadas e ajudei em algumas tarefas para poderem ser entregues a tempo.
 
 * [Link do Repositório](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
   
