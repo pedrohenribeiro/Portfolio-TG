@@ -63,7 +63,7 @@ Eu sou um desenvolvedor full-stack, venho me esforçando e ampliando meus conhec
 
 <details>
  <summary>
-  📘 Tech School - Primeiro Semestre (2023-1)
+  Tech School - Primeiro Semestre (2023-1)
  </summary>
  </br>
  
@@ -224,7 +224,7 @@ https://github.com/user-attachments/assets/b9de3350-71d2-4ad3-a420-aecd0e3ad960
 
 <details>
  <summary>
-   Dashboard Pro4Tech
+   Dashboard Pro4Tech (2024-1)
  </summary>
  </br>
 
@@ -307,7 +307,7 @@ https://github.com/user-attachments/assets/d50f0911-4db3-4cdc-866b-629e5dccba10
  
 <details>
  <summary>
-   WE COLEB - JJM Log
+   WE COLEB - JJM Log (2024-2)
  </summary>
  </br>
 
@@ -392,14 +392,14 @@ https://github.com/user-attachments/assets/4bfc8871-4f3e-42fb-9125-5fbd32882ad0
 
 <details>
  <summary>
-   SistemaReembolso - GSW Software
+   SistemaReembolso - GSW Software (2025-1)
  </summary>
  </br>
  
  ## 💻 SistemaReembolso - GSW Software
  
  ### 📖 Introdução
- O desenvolvimento do projeto ocorreu no quarto semestre do curso, com a empresa GSW sendo o nosso cliente externo, que me ajudou muito a aproximar da realidade do mercado de trabalho.
+ O desenvolvimento do projeto ocorreu no quinto semestre do curso, com a empresa GSW sendo o nosso cliente externo, que me ajudou muito a aproximar da realidade do mercado de trabalho.
  
  ### 🎯 Objetivo
  
@@ -486,6 +486,79 @@ https://github.com/user-attachments/assets/4bfc8871-4f3e-42fb-9125-5fbd32882ad0
 
 - **Comunicação**: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
 - **Responsabilidade e iniciativa**: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto. No final de todas as sprints sempre realizei testes em todas as funcionalidades do aplicativo e site, resolvi erros e comuniquei a equipe, também conversei com os outros membros sobre entregas atrasadas e ajudei em algumas tarefas para poderem ser entregues a tempo.
+
+
+
+https://github.com/user-attachments/assets/e8f566de-2b5f-4ca0-95ba-d64c7feaa85c
+
+
+
+* [Link do Repositório](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
+  
+</details>
+
+---
+
+<details>
+ <summary>
+   NutriMind - Xertica (2025-2)
+ </summary>
+ </br>
+ 
+ ## 💻 NutriMind - Xertica
+ 
+ ### 📖 Introdução
+ O desenvolvimento do projeto ocorreu no sexto semestre do curso, em parceria com a Xertica, uma empresa especializada em soluções em nuvem, inteligência artificial e transformação digital, que me ajudou muito a aproximar da realidade do mercado de trabalho.
+
+ ### 🎯 Objetivo
+ 
+ O objetivo deste projeto foi criar um aplicativo móvel para a solicitação de reembolsos de despesas pelos colaboradores da GSW Software. A principal meta foi automatizar e agilizar o processo de solicitação, garantindo que os dados de reembolso fossem registrados com precisão, enviados para aprovação de forma eficiente e gerenciados de maneira centralizada.
+
+
+ ### ❗ Problema
+
+O problema surgiu a partir da dificuldade e do alto custo do acesso a orientações nutricionais personalizadas. Muitas pessoas não conseguem manter acompanhamento com um nutricionista por limitações financeiras ou logísticas, o que resulta em planos alimentares genéricos e pouco eficazes.
+ 
+ ### ✅ Solução
+
+Desenvolvemos o NutriMind, uma plataforma inteligente que combina IA generativa e supervisão profissional (modelo Human-in-the-Loop) para gerar planos alimentares personalizados, recomendações de saúde, receitas e informações nutricionais detalhadas. O sistema realiza uma anamnese interativa com o usuário e utiliza múltiplos agentes inteligentes integrados, garantindo precisão, personalização e contextualização das respostas conforme o perfil de cada pessoa.
+ 
+### 🔧 Tecnologias Utilizadas
+
+<div align="center">
+
+| Tecnologias | Aplicação |
+|-------------|-----------|
+| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | Ferramenta utilizada para testar e documentar as requisições HTTP da API. |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | Ferramenta utilizada para o design e prototipação das telas do sistema e aplicativo. |
+| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) | Utilizada para gestão ágil de tarefas, acompanhamento das sprints e organização do time. |
+| ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) | Plataforma de comunicação utilizada entre equipe e cliente durante o desenvolvimento. |
+| ![Git](https://img.shields.io/badge/Fork-000000?style=for-the-badge&logo=git&logoColor=white) | Versionamento baseado em forks para criação de ramificações seguras e colaboração. |
+| ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | Editor de código utilizado durante todo o projeto. |
+
+</div>
+
+ ### 📌 Minhas Contribuições
+  
+ Durante o desenvolvimento do projeto, atuei como PO(Product Owner) e também diretamente em várias áreas essenciais do Da nossa Inteligência Artificial, Frontend e Backend:
+
+- 
+
+### 💻 Hard Skills
+
+- TypeScript: Consigo ensinar.
+- CSS: Consigo ensinar.
+- GIT: Sei fazer com autonomia.
+- Figma: Sei fazer com autonomia.
+- GitHub: Sei fazer com autonomia.
+- Jira: Sei fazer com autonomia.
+- Deploy na VPS: Consigo ensinar.
+- Deploy na Hostinger: Consigo ensinar.
+
+### 🗣️ Soft Skills
+
+- **Comunicação**:
+- **Responsabilidade e iniciativa**:
 
 
 
