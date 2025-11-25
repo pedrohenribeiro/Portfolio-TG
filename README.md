@@ -2,7 +2,7 @@
 
 <img align="left" src="https://github.com/user-attachments/assets/0b3312eb-c22c-4262-9fa3-9981f90f02ec" alt="foto-perfil" width="250"/>
 
-Olá, meu nome é Pedro Henrique Ribeiro, tenho 20 anos e atualmente estou cursando o 5º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos.
+Olá, meu nome é Pedro Henrique Ribeiro, tenho 21 anos e atualmente estou cursando o 6º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos.
 
 🙋‍♂️ **Um pouco sobre mim**
 
