@@ -231,7 +231,7 @@ https://github.com/user-attachments/assets/b9de3350-71d2-4ad3-a420-aecd0e3ad960
  ## 💻 Dashboard Pro4Tech
 
 ### 📖 Introdução
-O desenvolvimento do projeto ocorreu no terceiro semestre do curso, com a empresa Pro4Tech sendo o nosso cliente externo, que me ajudou muito a aproximar da realidade do mercado de trabalho.
+O desenvolvimento do projeto ocorreu no terceiro semestre do curso, com a empresa Pro4Tech que atua na área de desenvolvimento sendo o nosso cliente externo, que me ajudou muito a aproximar da realidade do mercado de trabalho.
 
 ### 🎯 Objetivo
 
@@ -314,7 +314,7 @@ https://github.com/user-attachments/assets/d50f0911-4db3-4cdc-866b-629e5dccba10
  ## 💻 WE COLEB - JJM Log
 
 ### 📖 Introdução
-O desenvolvimento do projeto ocorreu no quarto semestre do curso, com a empresa JJM Log sendo o nosso cliente externo, que me ajudou muito a aproximar da realidade do mercado de trabalho.
+O desenvolvimento do projeto ocorreu no quarto semestre do curso, com a empresa JJM Log da área de logística sendo o nosso cliente externo, que me ajudou muito a aproximar da realidade do mercado de trabalho.
 
 ### 🎯 Objetivo
 
@@ -399,7 +399,7 @@ https://github.com/user-attachments/assets/4bfc8871-4f3e-42fb-9125-5fbd32882ad0
  ## 💻 SistemaReembolso - GSW Software
  
  ### 📖 Introdução
- O desenvolvimento do projeto ocorreu no quinto semestre do curso, com a empresa GSW sendo o nosso cliente externo, que me ajudou muito a aproximar da realidade do mercado de trabalho.
+ O desenvolvimento do projeto ocorreu no quinto semestre do curso, com a empresa GSW da área de desenvolvimento sendo o nosso cliente externo, que me ajudou muito a aproximar da realidade do mercado de trabalho.
  
  ### 🎯 Objetivo
  
@@ -510,18 +510,14 @@ https://github.com/user-attachments/assets/e8f566de-2b5f-4ca0-95ba-d64c7feaa85c
  ### 📖 Introdução
  O desenvolvimento do projeto ocorreu no sexto semestre do curso, em parceria com a Xertica, uma empresa especializada em soluções em nuvem, inteligência artificial e transformação digital, que me ajudou muito a aproximar da realidade do mercado de trabalho.
 
- ### 🎯 Objetivo
- 
- O objetivo deste projeto foi criar um aplicativo móvel para a solicitação de reembolsos de despesas pelos colaboradores da GSW Software. A principal meta foi automatizar e agilizar o processo de solicitação, garantindo que os dados de reembolso fossem registrados com precisão, enviados para aprovação de forma eficiente e gerenciados de maneira centralizada.
-
 
  ### ❗ Problema
 
-O problema surgiu a partir da dificuldade e do alto custo do acesso a orientações nutricionais personalizadas. Muitas pessoas não conseguem manter acompanhamento com um nutricionista por limitações financeiras ou logísticas, o que resulta em planos alimentares genéricos e pouco eficazes.
+ O problema surgiu a partir da dificuldade de muitas pessoas de não terem acesso a profissionais da área da nutrição por limitações de logísticas e financeiras, ocasionando dificuldades em ter um suporte personalizado com base na saúde do paciente.
  
  ### ✅ Solução
 
-Desenvolvemos o NutriMind, uma plataforma inteligente que combina IA generativa e supervisão profissional (modelo Human-in-the-Loop) para gerar planos alimentares personalizados, recomendações de saúde, receitas e informações nutricionais detalhadas. O sistema realiza uma anamnese interativa com o usuário e utiliza múltiplos agentes inteligentes integrados, garantindo precisão, personalização e contextualização das respostas conforme o perfil de cada pessoa.
+ O objetivo foi desenvolver um agente conversacional inteligente (IA Generativa), com o foco de interagir de forma natural com o usuário, principalmente dando suporte de nutrição personalizado e baseado na sáude do paciente. Apresentando funcionalidades como: recomendações alimentares personalizas, monitoria do progresso, criação de planos alimentares, receitas recomendadas, além de dar suporte respondendo perguntas relacionadas à bem-estar, hábitos alimentares e nutrição.
  
 ### 🔧 Tecnologias Utilizadas
 
@@ -529,37 +525,61 @@ Desenvolvemos o NutriMind, uma plataforma inteligente que combina IA generativa 
 
 | Tecnologias | Aplicação |
 |-------------|-----------|
-| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | Ferramenta utilizada para testar e documentar as requisições HTTP da API. |
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | Ferramenta utilizada para o design e prototipação das telas do sistema e aplicativo. |
-| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) | Utilizada para gestão ágil de tarefas, acompanhamento das sprints e organização do time. |
-| ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) | Plataforma de comunicação utilizada entre equipe e cliente durante o desenvolvimento. |
-| ![Git](https://img.shields.io/badge/Fork-000000?style=for-the-badge&logo=git&logoColor=white) | Versionamento baseado em forks para criação de ramificações seguras e colaboração. |
-| ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | Editor de código utilizado durante todo o projeto. |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | Aplicado no backend do projeto, sendo responsável pela gestão dos dados de saúde e pessoal do paciente, além de administrar o controle de acesso à plataforma. |
+| ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) | Desenvolvimento da interface do sistema, garantindo interatividade e fluidez na comunicação com o usuário |
+| ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) | Utilizado para facilitar o entendimento da API (Backend JAVA). |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Desenvolvimento do backend responsável pela lógica do agente de IA. |
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | Utilizado para conectar o backend e o frontend relacionados a parte de IA, viabilizando a troca de mensagens. |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | Banco de dados utilizado para armazenar os dados da aplicação toda. |
+| ![Google Cloud](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ADK que auxilia na implementação dos múltiplos agente inteligentes. |
+| ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-bard&logoColor=white) | Modelo de inteligência artificial desenvolvido pelo Google, usado na compreensão e geração de respostas. |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | Utilizado para a construção da interface web. |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Linguagem utilizada para conectar o backend com o frontend. |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Aplicado para a estilização e o design visual. |
+| ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) | Sistema de controle de versão para gerenciar histórico, branches, commits, submódulos e integração de repositórios. |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | Ferramenta utilizada para a criação de protótipos e definição do layout da aplicação. |
+| ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) | Utilizado no gerenciamento de tarefas, organização de sprints e acompanhamento do progresso da equipe. |
+| ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) | Utilizado para documentação, apresentações e planejamento geral do projeto. |
+| ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | Utilizado para hospedagem do código e documentação do projeto. |
 
 </div>
 
  ### 📌 Minhas Contribuições
   
- Durante o desenvolvimento do projeto, atuei como PO(Product Owner) e também diretamente em várias áreas essenciais do Da nossa Inteligência Artificial, Frontend e Backend:
+ Durante o desenvolvimento do projeto, atuei como PO(Product Owner) a qual foi minha principal função e atividade, atuei ativamente durante o projeto me comunicando com a equipe e analisando o produto para poder validar questões pontuais com o cliente, e também diretamente em várias áreas essenciais do Da nossa Inteligência Artificial, Frontend e Backend,:
 
-- 
-
+- Inicialmente participei ativamente no Kickof, anotando todos os pontos importantes, dúvidas e requisitos que identifiquei inicialmente.
+- Criei o Backlog do produto e Backlog das Sprints baseado nas informações obtidas.
+- Me comuniquei com o cliente para realizar possíveis alterações do backlog e por fim sua validação final.
+- Criei as user stories com requisitos detalhados de cada tarefa para uma melhor compreensão da equipe de desenvolvimento.
+- Desenvolvi o RAG para a IA, utilizando python, fazendo embedding, chunks, overlaps, salvando no banco de dados vetorial e realizando sua consulta.
+- Desenvolvi um protótipo inicial da IA que conseguia utilizar as informações do RAG.
+- Desenvolvi uma ferramenta que atualiza o perfil de saúde do usuário utilizando o chat e um agente especializado.
+- Desenvolvi uma ferramenta que atualiza o plano alimentar do usuário utilizando o chat e um agente especializado.
+- Desenvolvi a tela de perfil do usuário.
+  
 ### 💻 Hard Skills
 
-- TypeScript: Consigo ensinar.
-- CSS: Consigo ensinar.
-- GIT: Sei fazer com autonomia.
-- Figma: Sei fazer com autonomia.
-- GitHub: Sei fazer com autonomia.
-- Jira: Sei fazer com autonomia.
-- Deploy na VPS: Consigo ensinar.
-- Deploy na Hostinger: Consigo ensinar.
+  * Java - Realizo com auxílio.
+  * Spring Boot - Realizo com auxílio. 
+  * Maven - Realizo com auxílio.
+  * Python - Sei fazer com autonomia.
+  * FLASK - Sei fazer com autonomia.
+  * PostgreSQL - Sei fazer com autonomia.
+  * Google ADK - Sei fazer com autonomia.
+  * Gemini - Sei fazer com autonomia.
+  * Vue.JS - Realizo com auxílio.
+  * JavaScript - Sei fazer com autonomia.
+  * CSS - Possuo autonomia para ensinar.
+  * GIT - Sei fazer com autonomia.
+  * Figma - Possuo autonomia para ensinar.
+  * GitHub - Possuo autonomia para ensinar.
+  * Jira - Sei fazer com autonomia.
 
 ### 🗣️ Soft Skills
 
-- **Comunicação**:
-- **Responsabilidade e iniciativa**:
-
+* **Comunicação:** Conduzi reuniões de alinhamento diretamente com o cliente para esclarecimento de requisitos e dúvidas complexas sobre o produto.
+* **Iniciativa:** Assumi proativamente tarefas não alocadas para evitar atrasos no cronograma.
 
 
 https://github.com/user-attachments/assets/e8f566de-2b5f-4ca0-95ba-d64c7feaa85c
