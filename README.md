@@ -1,4 +1,4 @@
-# Portfolio - Pedro Henrique Ribeiro
+# Portfólio - Pedro Henrique Ribeiro
 
 <img align="left" src="https://github.com/user-attachments/assets/0b3312eb-c22c-4262-9fa3-9981f90f02ec" alt="foto-perfil" width="250"/>
 
