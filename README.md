@@ -601,15 +601,15 @@ https://github.com/user-attachments/assets/e8f566de-2b5f-4ca0-95ba-d64c7feaa85c
 
 ### 🗣️ Soft Skills
 
-- **Comunicação:**
+- **Responsabilidade:**
 
 > Quando surgiu a necessidade de comunicar com o cliente de forma mais ativa para realizar perguntas mais complexas e de maior urgência para o projeto, conduzi reuniões de alinhamento diretamente com o cliente para esclarecimento de dúvidas e de requisitos.
 
-- **Colaboração e comunicação com o time e cliente:**
+- **Comunicação com o time e cliente:**
 
 > Tivemos uma reunião e o time de desenvolvimento levantou uma questão sobre a necessidade da implementação de uma funcionalidade do projeto, que poderia ocasionar em atrasos e demandaria tempo para ser desenvolvida, então entrei em contato com o cliente, com a aprovação dele alterei o backlog para podermos prosseguir com o desenvolvimento do sistema sem problemas.
 
-- **Iniciativa:**
+- **Proatividade:**
 
 > Assumi proativamente uma tarefa com problemas no desenvolvimento, tivemos um problema com o desenvolvimento da edição do plano alimentar utilizando imagens, então conversei com a equipe e comecei a trabalhar nela, conseguindo terminar a tempo para a última entrega.
 
