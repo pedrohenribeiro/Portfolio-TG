@@ -29,35 +29,48 @@ Estou em busca da minha primeira oportunidade na área de tecnologia. Tenho muit
 
 Eu sou um desenvolvedor full-stack, venho me esforçando e ampliando meus conhecimentos na área, com forte interesse na área de Game Design. Entre todos os meus conhecimentos, se destacam:
 
+### Linguagens
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black) 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) 
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) 
-![Unreal](https://img.shields.io/badge/-Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white) 
-![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+
+### Frameworks e Bibliotecas
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black) 
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white) 
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FE6F05?style=flat&logoColor=white)
+
+### Nuvem
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) 
+
+### Game Engines
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) 
+![Unreal](https://img.shields.io/badge/-Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white) 
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) 
+
+### Ferramentas
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![Trello](https://img.shields.io/badge/-Trello-026AA7?style=flat&logo=trello&logoColor=white) 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) 
 
 ## 📁 Meus Projetos
 
@@ -144,7 +157,6 @@ https://github.com/user-attachments/assets/a0f2e983-2eaa-4a00-a109-b64bd51f1c20
   
 </details>
 
----
 
 <details>
  <summary>
@@ -220,11 +232,9 @@ https://github.com/user-attachments/assets/b9de3350-71d2-4ad3-a420-aecd0e3ad960
 
 </details>
 
----
-
 <details>
  <summary>
-   Dashboard Pro4Tech (2024-1)
+   Dashboard - Pro4Tech (2024-1)
  </summary>
  </br>
 
@@ -303,7 +313,6 @@ https://github.com/user-attachments/assets/d50f0911-4db3-4cdc-866b-629e5dccba10
   
 </details>
 
- ---
  
 <details>
  <summary>
@@ -387,8 +396,6 @@ https://github.com/user-attachments/assets/4bfc8871-4f3e-42fb-9125-5fbd32882ad0
 * [Link do Repositório](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log.git)
  
 </details>
-
----
 
 <details>
  <summary>
@@ -497,7 +504,6 @@ https://github.com/user-attachments/assets/e8f566de-2b5f-4ca0-95ba-d64c7feaa85c
   
 </details>
 
----
 
 <details>
  <summary>
@@ -548,16 +554,25 @@ https://github.com/user-attachments/assets/e8f566de-2b5f-4ca0-95ba-d64c7feaa85c
   
  Durante o desenvolvimento do projeto, atuei como PO(Product Owner) a qual foi minha principal função e atividade, atuei ativamente durante o projeto me comunicando com a equipe e analisando o produto para poder validar questões pontuais com o cliente, e também diretamente em várias áreas essenciais do Da nossa Inteligência Artificial, Frontend e Backend,:
 
+### Contribuições como Product Owner (PO)
+
+- Atualizei ativamente a documentação do projeto (Github)
 - Inicialmente participei ativamente no Kickof, anotando todos os pontos importantes, dúvidas e requisitos que identifiquei inicialmente.
 - Criei o Backlog do produto e Backlog das Sprints baseado nas informações obtidas.
 - Me comuniquei com o cliente para realizar possíveis alterações do backlog e por fim sua validação final.
 - Criei as user stories com requisitos detalhados de cada tarefa para uma melhor compreensão da equipe de desenvolvimento.
-- Desenvolvi o RAG para a IA, utilizando python, fazendo embedding, chunks, overlaps, salvando no banco de dados vetorial e realizando sua consulta.
-- Desenvolvi um protótipo inicial da IA que conseguia utilizar as informações do RAG.
-- Desenvolvi uma ferramenta que atualiza o perfil de saúde do usuário utilizando o chat e um agente especializado.
-- Desenvolvi uma ferramenta que atualiza o plano alimentar do usuário utilizando o chat e um agente especializado.
-- Desenvolvi a tela de perfil do usuário.
-  
+
+### Contribuições técnicas:
+
+- RAG para a IA, utilizando python, fazendo embedding, chunks, overlaps, salvando no banco de dados vetorial e realizando sua consulta.
+- Ferramenta para a IA consultar o RAG.
+- Protótipo inicial da IA que conseguia utilizar as informações do RAG utilizando a ferramenta criada.
+- Ferramenta que atualiza o perfil de saúde do usuário utilizando o chat e um agente especializado.
+- Ferramenta que atualiza o plano alimentar do usuário utilizando o chat e um agente especializado.
+- Tela de perfil do usuário.
+- Ferramenta que altera o plano alimentar de acordo com fotos enviadas para o chat e atualizei o agente especializado na área.
+- Funcionalidade
+    
 ### 💻 Hard Skills
 
   * Java - Realizo com auxílio.
@@ -570,6 +585,7 @@ https://github.com/user-attachments/assets/e8f566de-2b5f-4ca0-95ba-d64c7feaa85c
   * Gemini - Sei fazer com autonomia.
   * Vue.JS - Realizo com auxílio.
   * JavaScript - Sei fazer com autonomia.
+  * HTML - Possuo autonomia para ensinar.
   * CSS - Possuo autonomia para ensinar.
   * GIT - Sei fazer com autonomia.
   * Figma - Possuo autonomia para ensinar.
@@ -586,6 +602,8 @@ https://github.com/user-attachments/assets/e8f566de-2b5f-4ca0-95ba-d64c7feaa85c
 
 
 
-* [Link do Repositório](https://github.com/Equipe-Meta-Code/SistemaReembolso-GSW-Software)
+[Vídeo no YouTube](https://youtu.be/poiV-mcqf8Y)
+
+* [Link do Repositório](https://github.com/Equipe-Meta-Code/NutriMind-Xertica)
   
 </details>
