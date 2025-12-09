@@ -563,24 +563,22 @@ https://github.com/user-attachments/assets/e8f566de-2b5f-4ca0-95ba-d64c7feaa85c
  Durante o desenvolvimento do projeto, atuei como PO(Product Owner) a qual foi minha principal função e atividade, atuei ativamente durante o projeto me comunicando com a equipe e analisando o produto para poder validar questões pontuais com o cliente, e também diretamente em várias áreas essenciais do Da nossa Inteligência Artificial, Frontend e Backend,:
 
 ### Contribuições como Product Owner (PO)
-
-- Atualizei ativamente a documentação do projeto (Github)
-- Inicialmente participei ativamente no Kickof, anotando todos os pontos importantes, dúvidas e requisitos que identifiquei inicialmente.
-- Criei o Backlog do produto e Backlog das Sprints baseado nas informações obtidas.
+- **Inicialmente participei ativamente no Kickof, anotando todos os pontos importantes, dúvidas e requisitos que identifiquei inicialmente.**
+- **Criei e atualizei o Backlog do produto e Backlog das Sprints baseado nas informações obtidas.** Durante o desenvolvimento do projeto eu projetei e alterei o backlog, conforme o andamento do projeto tive algumas conversas com o cliente que itilizei para alterar o Backlog com a aprovação dele.
+- **Atualizei ativamente a documentação do projeto:** Durante e no final de todas as sprints eu atualizei a nossa documentação no github, colocando alterrações em backlogs, documentos e imagens do projeto.
 - Me comuniquei com o cliente para realizar possíveis alterações do backlog e por fim sua validação final.
 - Criei as user stories com requisitos detalhados de cada tarefa para uma melhor compreensão da equipe de desenvolvimento.
 
 ### Contribuições técnicas:
 
-- RAG para a IA, utilizando python, fazendo embedding, chunks, overlaps, salvando no banco de dados vetorial e realizando sua consulta.
-- Ferramenta para a IA consultar o RAG.
-- Protótipo inicial da IA que conseguia utilizar as informações do RAG utilizando a ferramenta criada.
-- Ferramenta que atualiza o perfil de saúde do usuário utilizando o chat e um agente especializado.
-- Ferramenta que atualiza o plano alimentar do usuário utilizando o chat e um agente especializado.
-- Tela de perfil do usuário.
-- Ferramenta que altera o plano alimentar de acordo com fotos enviadas para o chat e atualizei o agente especializado na área.
-- Ferramenta para alterar o perfil do usuário.
-- Agente especializado para alterar o perfil do usuário pelo chat.
+- **RAG para a IA:** Desenvolvi utilizando python, fazendo embedding, chunks, overlaps e salvando no banco de dados vetorial ChromaDB.
+- **Ferramenta para a IA consultar o RAG:** Desenvolvi a ferramenta para fazer com que a IA conseguisse ter acesso ao RAG que desenvolvi, permitindo que ela fizesse consultas de acordo com as necessidades do usuário.
+- **Agente inicial da IA:** Desenvolvi o primeiro Agente, que conseguia utilizar as informações do RAG utilizando a ferramenta criada para responder perguntas sobre nutrição.
+- **Ferramenta que atualiza o plano alimentar do usuário:** A ferramenta pode ser utilizada por um agente especializado para editar o plano alimentar(dieta) do usuário.
+- **Tela de perfil do usuário:** Desenvolvi o Layout inicial com dados fixos.
+- **Funcionalidade de alterar o plano alimentar de acordo com fotos enviadas:** Implementei um prompt no agente especializado em editar plano alimentar, que servia para que a IA alterasse o plano alimentar do paciente de acordo com as calorias que a IA identificava na imagem enviada.
+- **Ferramenta que atualiza o perfil de saúde do usuário:** A ferramenta pode ser utilizada por um agente especializado para editar o perfil de saúde(anamnese) do usuário.
+- **Implementações no agente especializado em alterar o perfil do usuário pelo chat:** Para implementar a funcionalidade de edição pelo chat eu precisei modificar e implementar novos prompts no agente de edição. Integrei com a respectiva ferramenta.
     
 ### 💻 Hard Skills
 
