@@ -381,11 +381,14 @@ Foi criado um sistema web com funcionalidades específicas para o controle de de
 
 - **Colaboração em equipe**: Trabalhei em conjunto com os membros da equipe utilizando o Trello para acompanhar o andamento das tarefas e garantir o alinhamento entre todos. Participei ativamente de reuniões para definição de prioridades e adaptação de prazos, contribuindo com ideias e garantindo uma boa comunicação entre a equipe.
 
-- **Organização e gestão de tempo**: Ajudei a organizar as tarefas por prioridade e complexidade, dividindo demandas maiores em subtarefas menores para facilitar o acompanhamento. Isso garantiu entregas dentro dos prazos e melhor acompanhamento da evolução do projeto.
+- **Organização e gestão de tempo**:
+> Ajudei a organizar as tarefas por prioridade e complexidade, dividindo demandas maiores em subtarefas menores para facilitar o acompanhamento. Isso garantiu entregas dentro dos prazos e melhor acompanhamento da evolução do projeto.
 
-- **Capacidade de análise e solução de problemas**: Durante o desenvolvimento, identifiquei gargalos e problemas em funcionalidades tanto do backend quanto do frontend. Propus soluções, corrigi bugs e refinei o código em parceria com o time, evitando retrabalho e melhorando a performance da aplicação.
+- **Capacidade de análise e solução de problemas**:
+> Durante o desenvolvimento, identifiquei gargalos e problemas em funcionalidades tanto do backend quanto do frontend. Propus soluções, corrigi bugs e refinei o código em parceria com o time, evitando retrabalho e melhorando a performance da aplicação.
 
-- **Responsabilidade**: Testei todas as funcionalidades antes de enviá-las, garantindo que estivessem funcionando corretamente e sem bugs. Também revisei partes do código para manter a qualidade e a consistência do projeto.
+- **Responsabilidade**:
+> Testei todas as funcionalidades antes de enviá-las, garantindo que estivessem funcionando corretamente e sem bugs. Também revisei partes do código para manter a qualidade e a consistência do projeto.
 
 
 
@@ -491,8 +494,13 @@ https://github.com/user-attachments/assets/4bfc8871-4f3e-42fb-9125-5fbd32882ad0
 
 ### 🗣️ Soft Skills
 
-- **Comunicação**: Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
-- **Responsabilidade e iniciativa**: Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto. No final de todas as sprints sempre realizei testes em todas as funcionalidades do aplicativo e site, resolvi erros e comuniquei a equipe, também conversei com os outros membros sobre entregas atrasadas e ajudei em algumas tarefas para poderem ser entregues a tempo.
+- **Comunicação:**
+  
+> Utilizei as ferramentas Trello e Teams para manter a equipe alinhada, realizar perguntas e atualizações sobre o desenvolvimento, participei de reuniões e troquei mensagens para compartilhar ideias, feedbacks de forma rápida e também para informar sobre erros e sugestões de como solucioná-los. Assim, todos ficaram informados e evitamos retrabalho e problemas na entrega.
+> 
+- **Responsabilidade e iniciativa:**
+  
+> Durante o desenvolvimento do projeto fiquei realizando diversos testes nas telas e funcionalidades da aplicação, também realizei algumas reunições para ajudar no entendimento de partes do projeto, procurei erros e melhorias que poderiam ser implementadas, prezando sempre para uma melhor entrega e sempre procurando aprimorar o projeto. No final de todas as sprints sempre realizei testes em todas as funcionalidades do aplicativo e site, resolvi erros e comuniquei a equipe, também conversei com os outros membros sobre entregas atrasadas e ajudei em algumas tarefas para poderem ser entregues a tempo.
 
 
 
@@ -571,7 +579,8 @@ https://github.com/user-attachments/assets/e8f566de-2b5f-4ca0-95ba-d64c7feaa85c
 - Ferramenta que atualiza o plano alimentar do usuário utilizando o chat e um agente especializado.
 - Tela de perfil do usuário.
 - Ferramenta que altera o plano alimentar de acordo com fotos enviadas para o chat e atualizei o agente especializado na área.
-- Funcionalidade
+- Ferramenta para alterar o perfil do usuário.
+- Agente especializado para alterar o perfil do usuário pelo chat.
     
 ### 💻 Hard Skills
 
@@ -594,13 +603,17 @@ https://github.com/user-attachments/assets/e8f566de-2b5f-4ca0-95ba-d64c7feaa85c
 
 ### 🗣️ Soft Skills
 
-* **Comunicação:** Conduzi reuniões de alinhamento diretamente com o cliente para esclarecimento de requisitos e dúvidas complexas sobre o produto.
-* **Iniciativa:** Assumi proativamente tarefas não alocadas para evitar atrasos no cronograma.
+- **Comunicação:**
 
+> Quando surgiu a necessidade de comunicar com o cliente de forma mais ativa para realizar perguntas mais complexas e de maior urgência para o projeto, conduzi reuniões de alinhamento diretamente com o cliente para esclarecimento de dúvidas e de requisitos.
 
-https://github.com/user-attachments/assets/e8f566de-2b5f-4ca0-95ba-d64c7feaa85c
+- **Colaboração e comunicação com o time e cliente:**
 
+> Tivemos uma reunião e o time de desenvolvimento levantou uma questão sobre a necessidade da implementação de uma funcionalidade do projeto, que poderia ocasionar em atrasos e demandaria tempo para ser desenvolvida, então entrei em contato com o cliente, com a aprovação dele alterei o backlog para podermos prosseguir com o desenvolvimento do sistema sem problemas.
 
+- **Iniciativa:**
+
+> Assumi proativamente uma tarefa com problemas no desenvolvimento, tivemos um problema com o desenvolvimento da edição do plano alimentar utilizando imagens, então conversei com a equipe e comecei a trabalhar nela, conseguindo terminar a tempo para a última entrega.
 
 [Vídeo no YouTube](https://youtu.be/poiV-mcqf8Y)
 
